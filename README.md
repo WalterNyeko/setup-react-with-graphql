@@ -1,2 +1,2 @@
 # DevOps-Key-Things
-This repository contains the different expected skills in the DevOps space that a full stack engineer should possess
+This repository contains the basic setup of a react project with Apollo GraphQL. It also demonstrates a few ways of testing the app completely, both unit testing and integration testing. 
