@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/b76a5f161e5dc002443c/maintainability)](https://codeclimate.com/github/WalterNyeko/setting-react-project-with-graphQL/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b76a5f161e5dc002443c/test_coverage)](https://codeclimate.com/github/WalterNyeko/setting-react-project-with-graphQL/test_coverage)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
